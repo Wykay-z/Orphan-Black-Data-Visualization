@@ -1,0 +1,18 @@
+S > B 48
+	kat 1
+	A 18
+	C 3
+	R 6
+	MK 1
+	Kry 1
+
+R > S 1
+
+H > B 2
+	S 1
+	A 6
+
+C > A 7
+
+A > S 6
+	B 1
